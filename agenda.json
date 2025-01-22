@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Abraham",
+    "chat_id": "892441500",
+    "isActive": true,
+    "ovam": true
+  },
+  {
+    "name": "Abraham",
+    "chat_id": 5852782608,
+    "isActive": false,
+    "ovam": true
+  },
+  {
+    "name": "Hector",
+    "chat_id": "1255872910",
+    "isActive": false,
+    "ovam": true
+  },
+  {
+    "name": "Tomas",
+    "chat_id": "2141968688",
+    "isActive": false,
+    "ovam": true
+  },
+  {
+    "name": "Denisse",
+    "chat_id": "537393147",
+    "isActive": false,
+    "ovam": true
+  },
+  {
+    "name": "Brenda",
+    "chat_id": "1177813297",
+    "isActive": false,
+    "ovam": false
+  },
+  {
+    "name": "Antonio",
+    "chat_id": "1390270054",
+    "isActive": false,
+    "ovam": true
+  },
+  {
+    "name": "Enmanuela",
+    "chat_id": "1276779592",
+    "isActive": false,
+    "ovam": true
+  },
+  {
+    "name": "SA",
+    "chat_id": "6821711653",
+    "isActive": false,
+    "ovam": true
+  }
+]

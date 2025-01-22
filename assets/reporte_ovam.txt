@@ -1,0 +1,31 @@
+Reporte de Transacciones OK/NOK - OVAM (2025-01-20)
+ 
+Transaccion                              | Resultado  | Cantidad
+---------------------------------------- | ---------- | --------
+Activacion de Linea                      | |OK        |     4789
+Activacion de Linea                      | |NOK       |      156
+Cambio de SimCard                        | |OK        |      360
+Cambio de SimCard                        | |NOK       |       19
+Cambio de Plan                           | |OK        |       35
+Cambio de Plan                           | |NOK       |       28
+Actv/Dctv Servicio                       | |OK        |        6
+Actv/Dctv Servicio                       | |NOK       |        0
+Actualizacion de Datos                   | |OK        |        2
+Actualizacion de Datos                   | |NOK       |       52
+Consulta Numero (ACI)                    | |OK        |      604
+Consulta Numero (ACI)                    | |NOK       |        0
+Envio Clave (ACI)                        | |OK        |      572
+Envio Clave (ACI)                        | |NOK       |        0
+ 
+Reporte de Transacciones por SDP - OVAM (2025-01-20)
+ 
+Numeracion (SDP)                                   | Cantidad
+-------------------------------------------------- | --------
+SDP1                                               |        0
+SDP2                                               |        0
+SDP3                                               |        0
+SDP4                                               |        0
+SDP5                                               |        0
+SDP6                                               |        0
+SDP7                                               |        0
+SDP8                                               |        0
